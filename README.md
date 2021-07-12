@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=Codeforces&logoColor=white&link=https://codeforces.com/profile/babeeboo2000
+<a href="https://codeforces.com/profile/babeeboo2000" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
