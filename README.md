@@ -1,4 +1,4 @@
-### Sujeong000 😺
+# Sujeong000 😺
 
 [![CodeForces Profile](https://cf.leed.at?id={babeeboo2000})](https://codeforces.com/profile/{babeeboo2000})
 
