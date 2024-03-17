@@ -14,9 +14,8 @@
 <p>
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flutter-0175C2?style=flat&logo=Flutter&logoColor=white"/>
 </p>
 
 <br/>
-
-### 🔎 Experiences
-- 네이버 커넥트 부스트캠프 웹·모바일 6기 iOS  (2021.07 ~ 2021.12)
